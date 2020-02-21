@@ -1,0 +1,17 @@
+@import './partials/reset';
+@import './partials/variables';
+@import './partials/mixin';
+
+.app {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  width: 100%;
+  background: $primary;
+  &__title {
+    font: $montserrat_regular;
+    font-size: 20px;
+    color: $secondary;
+  }
+}

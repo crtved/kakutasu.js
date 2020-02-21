@@ -1,0 +1,29 @@
+{
+  "name": "kakutasujs",
+  "version": "1.0.0",
+  "description": "Generating the web with austere simplicity.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/crtved/kakutasu.js.git"
+  },
+  "keywords": [
+    "MERN",
+    "MongoDB",
+    "Express",
+    "React",
+    "NodeJS",
+    "Boilerplate",
+    "Static",
+    "JavaScript"
+  ],
+  "author": "Art San Diego <crtved.artsandiego@gmail.com> (https://github.com/crtved)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/crtved/kakutasu.js/issues"
+  },
+  "homepage": "https://github.com/crtved/kakutasu.js#readme"
+}
